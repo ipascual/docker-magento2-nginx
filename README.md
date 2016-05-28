@@ -1,10 +1,10 @@
-# Versions
+# Docker Image
 
-- [`1.9.14-0` (_Dockerfile_)](https://github.com/mageinferno/docker-magento2-nginx/tree/1.9.14-0/Dockerfile)
+- [ipascual/docker-magento2-nginx](https://hub.docker.com/r/ipascual/docker-magento2-nginx/)
 
 # Description
 
-This image is built from [`nginx`](https://hub.docker.com/_/nginx/) and contains the default webserver configuration for Magento 2.
+This repo is a fork from [MagenInferno-Nginx](https://github.com/mageinferno/docker-magento2-nginx) to apply some changes focused in local development on Magento2.
 
 # What's in this image?
 
